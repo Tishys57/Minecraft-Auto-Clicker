@@ -1,6 +1,8 @@
 # Minecraft-Auto-Clicker
 
-run the auto_clicker exe file
+Download both parts. Extract any one part. Inside will be a .py and an exe file. You may run the clicker through any one of them. 
+
+run the auto_clicker exe file or through the .py file
 
 Input the interval between clicks (In seconds)
 
